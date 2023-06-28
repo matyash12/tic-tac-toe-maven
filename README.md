@@ -6,5 +6,5 @@ It run's on Java and it's my first project in Java.
 For package managment i used maven.
 
 Here are some screenshots.
-[Main window](images/mainwindow.png)
-[Win screen](images/youwon.png)
+![Main window](images/mainwindow.png)
+![Win screen](images/youwon.png)
